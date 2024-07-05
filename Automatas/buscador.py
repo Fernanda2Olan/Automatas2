@@ -1,5 +1,5 @@
 def find_sustantivos(palabra):
-    fid = open('DB/Recursos.txt')
+    fid = open('sql/Recursos.txt')
     for line in fid:
         data = line.split(':') #0-> token, 1->lista palabras 
         for db_string in data:
