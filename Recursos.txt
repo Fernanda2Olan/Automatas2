@@ -1,0 +1,7 @@
+Recursos para el analizador en español
+
+1: Mochila, perro, computadora, televisión, carro, amigo, pais, telefono, corazon, escuela
+2: fuerte, rapido, lento, azul, hermoso, feo, bajo, grande, alto, debil
+3: aqui, arriba, tal vez, no, jamas, mucho, muy, sí, también, mañana, hoy, bien, mal
+4: tu, yo, El, ella, ellos, ellas, nosotros, nosotras, ustedes, la
+9: es , ser, estar, tener, hacer, poder, querer, ir, saber
