@@ -1,0 +1,7 @@
+Recursos para el analizador en español
+
+Sustantivos: Mochila, perro, computadora, televisión, pelota, amigo, pais, telefono, corazon, escuela
+Adjetivos: fuerte, rapido, lento, pequeño, hermoso, feo, bajo, grande, alto, debil
+Adverbio: aqui, arriba, tal vez, no, jamas, mucho, muy, sí, también, mañana, hoy, bien, mal
+Pronombre: tu, yo, el, ella, ellos, ellas, nosotros, nosotras, ustedes, la
+Verbos: correr, saltar, comer, caminar, dormir, hablar, escribir, beber, jugar, leer
