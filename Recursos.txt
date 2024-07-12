@@ -1,7 +1,20 @@
 Recursos para el analizador en español
 
-1: Mochila, perro, computadora, televisión, carro, amigo, pais, telefono, corazon, escuela
-2: fuerte, rapido, lento, azul, hermoso, feo, bajo, grande, alto, debil
-3: aqui, arriba, tal vez, no, jamas, mucho, muy, sí, también, mañana, hoy, bien, mal
-4: tu, yo, El, ella, ellos, ellas, nosotros, nosotras, ustedes, la
-9: es , ser, estar, tener, hacer, poder, querer, ir, saber
+#verbos
+1: comer, beber, correr, saltar, leer, escribir, dormir, despertar, hablar, ver, mirar, amar, odiar, caminar,
+    bailar, nadar, cantar, reír, llorar
+
+#sustantivos
+2: casa, perro, gato, libro, mesa, silla, escuela, trabajo, ciudad, país, amigo, familia, comida, agua, coche,
+    jardín, mar, montaña, flor, árbol
+
+#Adjetivos
+3: bonito, feo, alto, bajo, grande, pequeño, rápido, lento, nuevo, viejo, caliente, frío, dulce, amargo, fuerte,
+    debil, feliz, triste, claro, oscuro
+
+#Adverbios:
+4: rápidamente, lentamente, bien, mal, aquí, allí, ahora, después, pronto, tarde, siempre, nunca, a menudo, raramente,
+    muy, poco, bastante, demasiado, apenas, juntos
+
+#pronombres
+5: yo, tú, él, ella, nosotros, vosotros, ellos, ellas, mi, ti, sí, me, te, se, nos, os, este, ese, aquel, quién
