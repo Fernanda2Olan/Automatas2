@@ -7,7 +7,7 @@ if __name__ == '__main__':
         for linea in archivo_gramatica:
             for palabra in linea.split():
                 token = buscador.find_sustantivos(palabra)
-                print(f"\t Buscando la palabra [{palabra}] -> {token}")
+                #print(f"\t Buscando la palabra [{palabra}] -> {token}")
     else:
-        print("Error revisa su texto")
+        print("Por favor, revisa tu texto")
         
