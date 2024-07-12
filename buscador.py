@@ -16,7 +16,6 @@ def analizar(cadena, gramatica):
 
 
 
-
 def load_sustantivo(palabra):
     with open('Recursos.txt', encoding = 'utf-8') as fid:
         for line in fid:
@@ -26,3 +25,23 @@ def load_sustantivo(palabra):
                     return int (data[0]), data
     return 0, ''
 
+
+with open ('gramatica.txt', 'r', encoding= 'utf-8') as file:
+    cadena_usuario = file.read().strip()
+    caracteres_denegados = analizar(cadena_usuario)
+    
+    
+def archivoTokens(listaTokens):
+    with open('tokens.txt', 'w', encoding= 'utf-8') as file:
+        for token in listaTokens:
+            file.write(f"{token}\n")
+            
+if caracteres_denegados:
+    print(caracteres_denegados)
+else: listaTokens = []
+for componente in cadena_usuario.split():
+        token, data = load_sustantivo(componente)
+        print(f"\La palabra {componente} tiene como token {token} ")
+        listaTokens.append(token)
+        
+archivoTokens(listaTokens)
