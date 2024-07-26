@@ -1,8 +1,11 @@
-Analizador Léxico
+Campy
 
-Programa capaz de separar palabras de cada oración y llamarlos tokens, ademas de ser capaz de aceptar todo el abecedario alfanumerico, caracteres, etc.
-Para correr el archivo desde terminal 
-Python main.py
+Con el objetivo de facilitar la información a los clientes, se ha diseñado un bot en la aplicación de Telegram el cuál tiene como funcionamiento responder las inquietudes o dudas de los clientes
+
+Para correr este programa se necesita poner en la terminal
+- Python3 eko.py
+
+
 
 Creado con la versión Python 3.12.3
 
